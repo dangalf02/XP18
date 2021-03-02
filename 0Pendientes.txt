@@ -1,0 +1,7 @@
+Navegacion Corrigiendo errores de Compass
+
+1.- GPS PosicionActual compara contra WayPointN => Curso a seguir
+
+2.- GPS PosicionPrevia compara contra GPS PosicionActual => Curso real
+
+La presicion del GPS en pocos metros de recorrido es suficiente como para establecer una orientacion valida?
